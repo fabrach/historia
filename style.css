@@ -1,0 +1,45 @@
+body {
+
+    background-color: beige;
+    color: black;
+    font-family: 'faculty ghyphic', sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+}
+
+button{
+
+    background-color: bisque;
+    color: black;
+    font-family: 'faculty ghyphic', sans-serif;
+    
+}
+
+.passo{
+
+display: none;
+
+}
+
+.passo.ativo{
+
+    display: block;
+
+}
+
+main{
+
+max-width: 90%;
+text-align: center;
+
+}
+
+img{
+
+    max-width: 90%;
+    
+}
